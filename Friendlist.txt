@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Friendship Zone - Friend List</title>
+  <style>
+    table, th, td {
+      border: 1px solid gray;
+      border-collapse: collapse;
+      padding: 8px;
+      text-align: center;
+    }
+    
+  </style>
+</head>
+<body>
+
+    <img src="C:\Users\JAHNAVI\Downloads\friends pic.jpg" style="width:200px;height:200px;">
+    <h1 align="center">Friendship Zone</h1>
+  <h3>Details of people...</h3>
+
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>About</th>
+      <th>Send Request</th>
+      <th>COntact</th>
+    </tr>
+    <tr>
+      <td>Manprey</td>
+      <td>adventurous, likes to participate in banjee jumping</td>
+      <td>Friendship</td>
+      <td>984840005</td>
+    </tr>
+    <tr>
+      <td>Adam</td>
+      <td>Likes music, reads books</td>
+      <td>Dating</td>
+      <td>918240005</td>
+    </tr>
+  </table>
+  <a href="Registration.html">Register to get addded in the list</a>
+
+</body>
+</html>
